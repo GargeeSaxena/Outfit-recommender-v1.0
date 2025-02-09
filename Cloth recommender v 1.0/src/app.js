@@ -3,7 +3,7 @@ import AdvancedOutfitRecommender from './components/AdvancedOutfitRecommender';
 
 function App() {
   return (
-    <div className="App">
+    <div className="min-h-screen bg-gray-100">
       <AdvancedOutfitRecommender />
     </div>
   );
